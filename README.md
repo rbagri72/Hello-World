@@ -1,3 +1,3 @@
 # Hello-World
 my first repository
-ya just learning how to use github
+ya just learning how to use githubgr
